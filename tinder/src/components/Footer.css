@@ -1,0 +1,30 @@
+.footer{
+   width: 100%;
+   display: flex;
+   justify-content: space-evenly;
+    position: fixed;
+    bottom: 40px;
+   
+
+}
+.replay{
+    padding: 3vw !important;
+   
+   
+    box-shadow: 0px 10px 40px 0px  ;
+    
+    
+}
+.close{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px;
+}
+.starrate{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px ;
+}
+.favorite{
+    padding: 3vw !important;
+    
+    box-shadow: 0px 10px 40px 0px ;
+}

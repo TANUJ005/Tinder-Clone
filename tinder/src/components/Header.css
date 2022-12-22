@@ -1,0 +1,21 @@
+.header{
+    
+    object-fit: contain;
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+
+.profile{
+    
+    
+}
+.message{
+    font-size: 30px;
+    
+}
+.tindericon{
+    height: 60px;
+    
+}

@@ -1,0 +1,27 @@
+.card-container{
+   
+    display: flex;
+    justify-content: center;
+    
+}
+.cards{
+    position: relative;
+    width: 600px;
+  
+    height: 50vh;
+    padding: 20px;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.swipe{
+    position: absolute;
+    color: aliceblue;
+}
+#card{
+    position: absolute;
+    bottom: 0px;
+
+}
